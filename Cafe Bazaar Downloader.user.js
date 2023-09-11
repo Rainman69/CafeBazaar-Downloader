@@ -3,7 +3,7 @@
 // @namespace    http://your-namespace.com
 // @version      1.0
 // @description  Script for extracting app information and downloading from Cafe Bazaar
-// @author       Your Name
+// @author       Rainman69
 // @match        https://cafebazaar.ir/*
 // @grant        none
 // ==/UserScript==
