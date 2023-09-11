@@ -6,10 +6,14 @@ Once you have the userscript manager installed, follow these steps to use the Ca
 Install the Script:
 
 1.Open your userscript manager extension.
+
 2.Create a new script.
+
 3.Copy and paste the entire code mentioned in "Cafe Bazaar Downloader.txt" into the script editor.
-script link https://github.com/Rainman69/CafeBazaar-Downloader/blob/main/Cafe%20Bazaar%20Downloader.txt
+
+
 4.Save the script.
+
 5.Visit Cafe Bazaar:
 
 Open your browser and navigate to the Cafe Bazaar website (https://cafebazaar.ir/).
