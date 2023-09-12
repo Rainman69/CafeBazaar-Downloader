@@ -3,9 +3,11 @@
 // @namespace    http://your-namespace.com
 // @version      1.0
 // @description  Script for extracting app information and downloading from Cafe Bazaar
-// @author       Rainman69
+// @author       https://t.me/TheErfon
 // @match        https://cafebazaar.ir/*
 // @grant        none
+// @license      CC BY-NC-ND 4.0
+// @licenseURL   https://github.com/Rainman69/CafeBazaar-Downloader/blob/main/LICENSE
 // ==/UserScript==
 
 (function() {
